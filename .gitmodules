@@ -1,0 +1,3 @@
+[submodule "bugout-dynamo-concept"]
+	path = bugout-dynamo-concept
+	url = https://github.com/attish/bugout-dynamo-concept.git
