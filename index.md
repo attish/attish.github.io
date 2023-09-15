@@ -1,11 +1,12 @@
-## Welcome to my GitHub homepage
+# Welcome to my home
 
-My current main project is [a Dynamo-like distributed data
+My name is Attila István Nagy, and I am a psychiatrist with a passion for coding and AI.
+
+
+A previous project is [a Dynamo-like distributed data
 store](https://attish.github.io/bugout-dynamo-concept/bugout-dynamo-concept.html)
 implemented entirely in web browser, being as serverless as possible. (Uses
 Bittorrent trackers to connect peers.
 
-There is not much else here. Please see [my main GitHub
-page](https://github.com/attish/) to know more about me and my projects.
+Please see [my main GitHub page](https://github.com/attish/) to know more my other projects.
 
-This may change later, though.
