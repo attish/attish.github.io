@@ -1,6 +1,14 @@
+#theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "air"
 title: Attila István Nagy
+name: Attila István Nagy M.D.
+author:
+  name     : "Attila István Nagy"
+  avatar   : "/assets/images/nai.jpg"
+  bio      : "Psychiatrist and AI enthusiast. Driven by a desire to understand, improve and create."
+  location : "Debrecen, Hungary"
+subtitle: Optimizing Consciousness since 2010.
 description: My official presence on GitHub
 plugins:
   - jekyll-paginate

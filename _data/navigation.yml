@@ -1,0 +1,14 @@
+main:
+  - title: "My Journey"
+    url: /journey/
+  - title: "Ecosystem"
+    url: /ecosystem/
+  - title: "Workflow"
+    url: /tags/
+  - title: "Experiments"
+    url: /experiments/
+  - title: "Vision"
+    url: /vision/
+  - title: "My GitHub"
+    url: https://github.com/attish/
+
