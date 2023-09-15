@@ -1,6 +1,11 @@
 ---
-layout: single
 author_profile: true
+layout: splash
+header:
+  overlay_image: /assets/images/ai.png
+  overlay_filter: 0.5 # this is optional, it adds a dark filter to make text stand out
+  caption: "Photo credit: [**DALL-E 2**](Your Link)"
+excerpt: 'Bridging AI and psychiatry.'
 ---
 
 My name is Attila István Nagy, and I am a psychiatrist with a passion for coding and AI.
