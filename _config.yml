@@ -9,3 +9,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+author:
+  name     : "Attila István Nagy"
+  avatar   : "/assets/images/nai.jpg"
+  bio      : "Psychiatrist and AI enthusiast. Driven by a desire to understand, improve and create."
+  location : "Debrecen, Hungary":    
