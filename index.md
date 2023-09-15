@@ -1,7 +1,8 @@
-# Welcome to my home
+---
+title: Welcome to my home
+---
 
 My name is Attila István Nagy, and I am a psychiatrist with a passion for coding and AI.
-
 
 A previous project is [a Dynamo-like distributed data
 store](https://attish.github.io/bugout-dynamo-concept/bugout-dynamo-concept.html)

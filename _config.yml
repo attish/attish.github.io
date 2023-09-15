@@ -1,5 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes"
-title: attish's homepage
+title: Attila István Nagy
 description: My official presence on GitHub
 plugins:
   - jekyll-paginate
