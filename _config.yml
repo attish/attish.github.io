@@ -1,4 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "contrast"
 title: Attila István Nagy
 description: My official presence on GitHub
 plugins:
