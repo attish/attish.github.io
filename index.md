@@ -1,5 +1,10 @@
 ---
 title: Welcome to my home
+author:
+  name     : "Attila István Nagy"
+  avatar   : "/assets/images/nai.jpg"
+  bio      : "Psychiatrist and AI enthusiast. Driven by a desire to understand, improve and create."
+  location : "Debrecen, Hungary"
 ---
 
 My name is Attila István Nagy, and I am a psychiatrist with a passion for coding and AI.
