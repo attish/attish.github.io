@@ -9,6 +9,8 @@ main:
     url: /experiments/
   - title: "Vision"
     url: /vision/
-  - title: "My GitHub"
-    url: https://github.com/attish/
+  - title: "Other Interests"
+    url: /other/
+#  - title: "My GitHub"
+#    url: https://github.com/attish/
 

@@ -1,7 +1,7 @@
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
-title: Attila István Nagy
+title: A.I. Nagy
 name: Attila István Nagy M.D.
 author:
   name     : "Attila István Nagy"
@@ -17,3 +17,5 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+custom_css:
+  - assets/css/custom.css
