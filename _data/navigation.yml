@@ -1,16 +1,16 @@
 main:
   - title: "My Journey"
-    url: /journey/
+    url: /journey.html
   - title: "Ecosystem"
-    url: /ecosystem/
+    url: /ecosystem.html
   - title: "Workflow"
-    url: /tags/
+    url: /tags.html
   - title: "Experiments & Red Teaming"
-    url: /experiments/
+    url: /experiments.html
   - title: "Vision"
-    url: /vision/
+    url: /vision.html
   - title: "Other Interests"
-    url: /other/
+    url: /other.html
 #  - title: "My GitHub"
 #    url: https://github.com/attish/
 
