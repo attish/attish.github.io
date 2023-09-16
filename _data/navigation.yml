@@ -5,7 +5,7 @@ main:
     url: /ecosystem/
   - title: "Workflow"
     url: /tags/
-  - title: "Experiments"
+  - title: "Experiments & Red Teaming"
     url: /experiments/
   - title: "Vision"
     url: /vision/
