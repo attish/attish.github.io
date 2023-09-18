@@ -1,10 +1,8 @@
 main:
   - title: "My Journey"
     url: /journey.html
-  - title: "Ecosystem"
+  - title: "Ecosystem & Workflow"
     url: /ecosystem.html
-  - title: "Workflow"
-    url: /tags.html
   - title: "Experiments & Red Teaming"
     url: /experiments.html
   - title: "Vision"

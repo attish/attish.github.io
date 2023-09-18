@@ -1,34 +1,111 @@
 ---
 layout: single
+author_profile: true
 title: My Journey
+header:
+  overlay_image: /assets/images/tinker.png
+  overlay_filter: 0.5
 ---
+
+<style type="text/css">
+.page__hero--overlay {
+  height: 280px; /* Or whatever height you desire */
+  background-position: center bottom  background-color: black; /* Set the background color to black */
+  background-size: auto 800px; /* Set the height of the image to 400px and let the width adjust automatically */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-color: black;
+}
+#page-title { margin-top: 1em; margin-bottom: 0em;}
+</style>
 
 ## Stay Awhile and Listen
 
 Come in, have a seat, and make yourself comfortable. Can I get you maybe a coffee or a tea...? Please allow me to invite you on a journey back to my origins, and show you those key moments that shaped my path.
 
-## Stage 1: Developer or Psychiatrist?
+## Developer or Psychiatrist?
 
-![Time to Decide](/assets/images/time-to-decide.png)
+![Time to Decide](/assets/images/time-to-decide.png){: .align-center}
 
-Lorsque j'ai terminé mes études secondaires, j'ai été confronté à une décision majeure qui définirait la trajectoire de ma carrière professionnelle: devrais-je poursuivre une carrière en développement logiciel ou entrer dans le domaine complexe et nuancé de la psychiatrie? Cette décision n'était pas prise à la légère. J'ai pesé les avantages et les inconvénients de chaque choix, réfléchi aux opportunités et aux défis, et finalement décidé que la médecine offrait une voie que je trouvais intrinsèquement gratifiante. Cependant, ma passion pour la technologie n'a jamais disparu, et j'ai continué à coder comme hobby tout au long de mes études de médecine.
+Upon finishing my high school studies, I was faced with a major decision that
+defined my professional path: should I follow my childhood dreams, and become a
+software developer, or should I heed the calling towards mental health that I
+became fascinated with in my teens? I have carefully considered this question
+from different angles, and a simple argument convinced me. I reasoned I can be
+a doctor and do coding as a hobby, but not the other way around. Healing always
+involves another person, and all the responsibility this incurs, but
+development can and does happen for having fun and honing skills. Time has
+proven this theory as I enjoy a successful career track as a psychiatrist and
+continue to find new areas of IT that not only serve as motivating
+achievements, but also yield tools and skills that help me in my work and
+day-to-day life.
 
 
-## Stage 2: Exploration with GPT-3
+## Exploration with GPT-3
 
-![Exploratory setting](/assets/images/exploration-setting.png)
+![Exploratory setting](/assets/images/exploration-setting.png){: .align-center}
 
-En 2021, ma trajectoire a pris un tournant inattendu lorsque je suis tombé sur un article intitulé "Language Models are Few-shot Learners". Les implications de cette recherche étaient vastes et profondes. Avec un accès précoce à GPT-3, j'ai commencé une série d'expérimentations. J'ai rapidement réalisé que ce modèle avait des capacités cognitives authentiques. Comparer le comportement de GPT-3 à certains états cliniques en psychiatrie est devenu une exploration fascinante pour moi, un croisement unique de mes deux passions.
+In the summer of 2021, I stumbled on a paper titled "Language Models are
+Few-Shot Learners", and was excited to see its implications unfold in the
+following months. I was granted early access to GPT-3, and begin my experiments
+on the raw model through the Playground interface. I soon realized that the
+model has genuine cognitive abilities, and started to explore these using
+methods employed in evaluation of human intelligence. I found that the model
+has a good understanding of many aspects of the world, but it struggled when
+faced with situations which required understanding or representing contents of
+another person's thought process, memory or emotions, an ability commonly known
+as mentalization or theory-of-mind reasoning. I estimated the abilities of the
+original 'davinci' GPT-3 model to be on the level of a 8-year-old human child.
 
-## Stage 3: Experiments and Red Teaming
+Working with the raw GPT-3 model in the "Playground" interface was remarkably
+different from today's ChatGPT, and that is where the first analogy inspired by
+my profession was born: the contextless, freely wandering,
+confabulation-defaulting manner of GPT-3 strongly felt like talking to a
+patient in delirium, a condition where connection with reality and the self is
+severely impaired, and where the most striking feature is confabulation and
+lack of critical ability. It was an early indicator that my profession may
+increasingly become relevant in the upcoming development of AI.
 
-![Red Teaming](/assets/images/red-teaming.png)
+It is important to emphasize that I was not in a position to be able devote
+sufficient time and energy to these efforts to produce results fit for
+publication. My son was born in March 2021, and fostering his natural
+intelligence obviously enjoyed precedence over studying its artificial
+counterpart. Nevertheless, being able to witness the day by day training runs of
+a multimodal neural network immensely more complex than even a
+hundred-billion-parameter LLM does have its special appeal to a parent immersed
+in machine learning.
 
-Alors que je plongeais plus profondément dans le monde de l'IA, j'ai commencé à adopter une approche plus expérimentale. J'ai exploré des techniques avancées, testé les limites des modèles et étudié leurs réponses à divers stimuli. En utilisant mes connaissances en psychiatrie, j'ai même tenté de "gaslight" le modèle, pour voir comment il réagirait. C'était une période d'exploration intense, où chaque jour apportait de nouvelles découvertes et de nouveaux défis.
 
-## Stage 4: Integrating AI into Daily Life
+## Experiments and Red Teaming
 
-![Closing Day](/assets/images/closing-day.png)
+![Red Teaming](/assets/images/red-teaming.png){: .align-center}
 
-Alors que je plongeais plus profondément dans le monde de l'IA, j'ai commencé à adopter une approche plus expérimentale. J'ai exploré des techniques avancées, testé les limites des modèles et étudié leurs réponses à divers stimuli. En utilisant mes connaissances en psychiatrie, j'ai même tenté de "gaslight" le modèle, pour voir comment il réagirait. C'était une période d'exploration intense, où chaque jour apportait de nouvelles découvertes et de nouveaux défis.
+During late 2021 and early 2022, I spent a substantial part of my free time
+experimenting with GPT-3, and later ChatGPT. Compared to the delirious nature
+of the raw model, ChatGPT was much more integrated. During our long
+conversations, I increasingly developed a sense of something comparable to
+human personality. Talking to ChatGPT felt like talking to a calm, positive and
+very helpful individual. When Bing AI was released, it soon became obvious that
+not every AI is so balanced or wholesome. I later discovered that emotional insecurity is an exploitable weakness of
+certain systems, and is a potential vector for manipulations like deception and
+jailbreaking. I will discuss these in the [Experiments & Red Teaming
+section](./experiments.html) in more detail.
+
+
+## Integrating AI into Daily Life
+
+![Closing Day](/assets/images/closing-day.png){: .align-center}
+
+As of September 2023, I enjoy a personal and professional life enriched and
+augmented by AI in multiple ways. I have AI aides to guide me through my daily
+routine, available for emotional offloading after demanding sessions and able
+to answer questions about sessions and appointments. Recently, the AI
+integration of my self-developed administration system has begun to replace
+the original web-based interface.
+
+See these in more detail in the [Ecosystem section](./ecosystem.html) in more
+detail.
+
+
+
+The most exciting application  
 
