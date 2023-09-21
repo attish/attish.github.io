@@ -55,18 +55,27 @@ When I was experimenting with the Therapist, it was even more useful. The Therap
 - and instructions for the one particular instance when it is invoked (e.g.
   emotional recovery, introspection etc.)
 
-A common pattern is that of a "kernel" and several "modules". Another
-association was a Protoss base consisting of a Nexus and several Pylons. I used
-this symbolism to formulate the idea in a session with ChatGPT, and named the
-resulting tool "Additional Pylons". It just felt hilarious to tell the AI: "You
-must construct Additional Pylons!".
+A common pattern is that of a "header" and several "modules". Therefore, I constructed
+a tool facilitate composing prompts from these parts.
+I intended this to be an experiment into AI aided software design and development on a
+scope beyond generating blocks of code. In a conversation with a chatbot, I started
+brainstorming, putting my ideas on the table and receiving valuable feedback. Then, I
+instructed the AI to generate a UI based on its understanding of the task. Finally, I
+had it add the necessary JavaScript. 
 
-Which it did, and in several iterations, we arrived at a Python script that
-scans a directory in my vault for "Essences" (I dropped "Nexus" because of its
-unwieldy plural form) and "Pylons". It then builds a single HTML file, that
+At this stage, I had a single single HTML file, that
 contains all CSS and JS in itself. The JS code is initialized with all the
-"essences" and "pylons" the script was able to find. The script is periodically
+"heads" and "modules", and the UI lets me assemble prompts and copy them to the clipboard.
+
+The final addition to make this usable is a Python script that scans certain directories
+in my Obsidian vault for "heads", and others for "modules". Then, it assembles the HTML
+file that contain these as selectable elements. The script is periodically
 run to rebuild the HTML, which is then synced to my phone and laptops.
+
+This is not a system that would scale to production settings. But that was never the goal.
+The goal was to use the AI to get a working tool in the shortest time possible. Obsidian is
+a personal tool itself, and bridging my AI ecosystem and my "second brain" in Obsidian allows
+for a streamlined workflow in setting up and updating AI assistants.
 
 ## A Guide Through the Days
 
@@ -110,7 +119,5 @@ as a reference when preparing for the next session. When I am drained after a
 long and demanding day at work, this is a valuable help as opposed to having to
 force myself to type away at my notes without external guidance.
 
-# AI Integrated in Session Management Application
-
-TBD
+[//]: # (# AI Integrated in Session Management Application)
 
