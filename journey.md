@@ -106,6 +106,3 @@ See these in more detail in the [Ecosystem section](./ecosystem.html) in more
 detail.
 
 
-
-The most exciting application  
-

@@ -39,17 +39,11 @@ most important tools of my trade give me a unique perspective when studying AI
 capabilities, comparing their advantages and weaknesses to human abilities, and
 ultimately assessing their utility in real-world scenarios.
 
-When working as a psychiatrist, respecting boundaries is paramount, and forms
-the basis of the safety and wellbeing of both the patient and the professional.
-
-Ensuring safety is just as crucial in the world of AI. However, while
-maintaining professional boundaries in therapy can only be based on respect and
-trust, ensuring the integrity of walls and barriers in the way of unethical and
-harmful use of AI requires taking an adversarial stance, to intentionally probe
-them in a responsible manner. During my initial exploratory work with GPT-3 in
-2021, I used the skills gained in my day profession when exploring the limits,
-and finding ways to transcend them. Later, as I immersed myself in the field
-more intentionally, I came to know that this kind activity is known as red
-teaming and is a cornerstone of AI safety.
-
+In the context of AI, I found my skills gained at work to be readily
+utilizable. Prompt engineering is in large part based on the ability
+to anticipate how the model would behave - and in this I found that I
+am using the same skillset as in human mentalization. I think prompt
+engineering work is in a large part about having a 'model of the
+model' in your mind, much in the same way as therapeutic work relies
+on having a model of the other person's mind.
 
